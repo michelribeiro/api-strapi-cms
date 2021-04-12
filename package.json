@@ -15,7 +15,7 @@
     "@ckeditor/ckeditor5-build-classic": "^27.0.0",
     "@ckeditor/ckeditor5-react": "^3.0.2",
     "knex": "<0.20.0",
-    "pg": "latest",
+    "pg": "^8.5.1",
     "strapi": "3.5.4",
     "strapi-admin": "3.5.4",
     "strapi-connector-bookshelf": "3.4.4",
